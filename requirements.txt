@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+sqlalchemy
+pymysql
+
+# how to run = pip3 insstal -r requirements.txt
